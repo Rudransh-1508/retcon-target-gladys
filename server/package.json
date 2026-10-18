@@ -82,7 +82,7 @@
     "bcrypt": "^5.1.0",
     "bluebird": "^3.7.2",
     "bottleneck": "^2.19.5",
-    "compression": "^1.7.4",
+    "compression": "^1.8.2",
     "cross-env": "^7.0.3",
     "dayjs": "^1.11.6",
     "dockerode": "^3.3.4",
