@@ -1,0 +1,34 @@
+{
+  "extends": ["preact", "prettier", "plugin:cypress/recommended", "plugin:compat/recommended"],
+  "rules": {
+    "react/jsx-indent-props": ["error", 2],
+    "brace-style": ["error", "1tbs"],
+    "no-useless-concat": "error",
+    "prefer-template": "error",
+    "jest/expect-expect": "off",
+    "jest/valid-expect": "off",
+    "no-async-promise-executor": "off",
+    "react/jsx-key": "off",
+    "promise/prefer-await-to-then": "warn"
+  },
+  "env": {
+    "browser": true
+  },
+  "plugins": ["json", "cypress", "promise"],
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  },
+  "settings": {
+    "targets": null
+  },
+  "overrides": [
+    {
+      "files": ["cypress/**/*.js"],
+      "rules": {
+        "promise/prefer-await-to-then": "off"
+      }
+    }
+  ]
+}

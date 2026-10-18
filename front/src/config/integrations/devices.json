@@ -1,0 +1,53 @@
+[
+  {
+    "key": "zwave",
+    "img": "/assets/integrations/cover/zwave.jpg"
+  },
+  {
+    "key": "rtspCamera",
+    "link": "rtsp-camera",
+    "img": "/assets/integrations/cover/rtsp-camera.jpg"
+  },
+  {
+    "key": "xiaomi",
+    "img": "/assets/integrations/cover/xiaomi.jpg"
+  },
+  {
+    "key": "mqtt",
+    "img": "/assets/integrations/cover/mqtt.jpg"
+  },
+  {
+    "key": "zigbee2mqtt",
+    "img": "/assets/integrations/cover/zigbee2mqtt.jpg"
+  },
+  {
+    "key": "philipsHue",
+    "link": "philips-hue",
+    "img": "/assets/integrations/cover/philips-hue.jpg"
+  },
+  {
+    "key": "tasmota",
+    "img": "/assets/integrations/cover/tasmota.jpg"
+  },
+  {
+    "key": "tpLink",
+    "link": "tp-link",
+    "img": "/assets/integrations/cover/tp-link.jpg"
+  },
+  {
+    "key": "bluetooth",
+    "img": "/assets/integrations/cover/bluetooth.jpg"
+  },
+  {
+    "key": "eWeLink",
+    "img": "/assets/integrations/cover/ewelink.jpg"
+  },
+  {
+    "key": "owntracks",
+    "img": "/assets/integrations/cover/owntracks.jpg"
+  },
+  {
+    "key": "broadlink",
+    "img": "/assets/integrations/cover/broadlink.jpg"
+  }
+]
