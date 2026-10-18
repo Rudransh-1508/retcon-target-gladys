@@ -92,7 +92,7 @@
     "form-data": "^2.3.3",
     "fs-extra": "^11.1.0",
     "get-value": "^3.0.1",
-    "handlebars": "^4.7.7",
+    "handlebars": "^4.7.10",
     "joi": "^17.7.0",
     "jsonwebtoken": "^8.5.1",
     "lodash.clonedeep": "^4.5.0",
